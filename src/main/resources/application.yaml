@@ -1,0 +1,14 @@
+midgar:
+  organization: Avalanche
+  members:
+    - name: Barret Wallace
+    - name: Tifa Lockhart
+    - name: Jessie Rasberry
+    - name: Biggs
+    - name: Wedge
+    - name: Cloud Strife
+  member-details:
+    'Cloud Strife':
+      name: Cloud Strife
+      title: Soldier 1st Class
+      age: 32
